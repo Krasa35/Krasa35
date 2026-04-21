@@ -25,10 +25,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />  <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  /> <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" height="25" alt="ros logo"/> <img width="8" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="25" alt="latex logo"/> <img width="8" /> -->
 -  [robot_path_finding](https://github.com/Krasa35/robot_path_finding) - Artificial Intelligence project - Robot Path Finding for TCP based on RRT method
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25"/> <img width="8" />
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="25"/> <img width="8" /> -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="25"/> <img width="8" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="25"/> <img width="8" />
 -  [IMU_MoveVis](https://github.com/Krasa35/IMU_MoveVis) - Microprocessor systems lecture project - Visualizing move with IMU and STM32
